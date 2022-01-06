@@ -1,0 +1,47 @@
+table{
+    background: red;
+}
+th{
+    color: white;
+}
+td{
+    color: white;
+}
+
+.saul{
+    border: 5px black solid;
+    background: red;
+    color: white;
+    text-align: center;
+} 
+.saul-1{
+column-count: 3;
+height: 250px;
+width: 1117px;
+border: 5px black solid;
+background: red;
+color: white;
+}
+.saul-3{
+    height: 73px;
+    width: 1118px;
+    border: 5px black solid;
+    background: red;
+    color: white;
+    text-align: center;
+    border-bottom: 4px;
+}
+
+.merch{
+    position: relative;
+    float: right;
+    height: 900px;
+    width: 360px;
+    border: 5px black solid;
+    background: red;
+    color: white;
+    text-align: center;
+}
+body {
+    background: linear-gradient(to right, white, red);;
+}
